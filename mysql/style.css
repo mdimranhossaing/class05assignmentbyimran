@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 95%;
+  margin: auto;
+}
+header h1 {
+  margin-bottom: 30px;
+}
+.ad-user {
+  margin-bottom: 50px;
+}
+.ad-user h2 {
+  margin-bottom: 10px;
+}
+.ad-user table tr label,
+.ad-user table tr input {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.ad-user table tr input {
+  padding: 5px 10px;
+}
+
+.show-database h2 {
+  margin-bottom: 10px;
+}
+
+.form-body, .data-table {
+  box-sizing: border-box;
+  box-shadow: 5px 10px 15px #000;
+  margin-bottom: 50px;
+}
